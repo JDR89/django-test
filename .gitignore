@@ -3,6 +3,8 @@ env/
 venv/
 ENV/
 
+db.sqlite3
+
 # Python temporales
 __pycache__/
 *.py[cod]

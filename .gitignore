@@ -1,0 +1,9 @@
+# Entorno virtual
+env/
+venv/
+ENV/
+
+# Python temporales
+__pycache__/
+*.py[cod]
+*$py.class

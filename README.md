@@ -44,6 +44,8 @@ python manage.py runserver
 
 📂 Endpoints principales
 
+- Home: `http://127.0.0.1:8000/` (Vista hola mundo)
+
 - Panel de Administración: `http://127.0.0.1:8000/admin/` (Requiere crear un superusuario).
 
 - Listado de Usuarios (API): `http://127.0.0.1:8000/api/users/`

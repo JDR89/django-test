@@ -18,3 +18,6 @@ class UserView(APIView):
         return Response(serializer.errors, status=400)
 
 
+class HelloWorldView(APIView):
+    def get(self, request):
+        return render(request, 'app/home.html')
